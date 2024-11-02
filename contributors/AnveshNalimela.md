@@ -1,5 +1,5 @@
 ---
-name: Nalimela Anvesh
+name: Anvesh
 title: Intern
 github: AnveshNalimela
 twitter: AnveshNalimela
